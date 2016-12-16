@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">IRProject</string>
+    <string name="hint">key word</string>
+
+
+
+    <string-array name="locations">
+        <item>pittsburgh</item>
+        <item>New York</item>
+        <item>Chicago</item>
+        <item>Seattle</item>
+        <item>San Jose</item>
+    </string-array>
+
+
+
+</resources>
